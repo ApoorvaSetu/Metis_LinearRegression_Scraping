@@ -18,9 +18,9 @@ Predicting Average rating:
 
 average_rating_predict.png![image](https://user-images.githubusercontent.com/64047140/150882066-1ccf954c-6db8-4d35-8023-a41b71a52ac8.png)
 
-MAE: 0.172722582026662
-MSE: 0.052813366663718796
-RMSE: 0.22981158948956162
+- MAE: 0.172722582026662
+- MSE: 0.052813366663718796
+- RMSE: 0.22981158948956162
 
 
 
